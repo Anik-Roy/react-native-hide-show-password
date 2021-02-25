@@ -3,8 +3,9 @@ Show/Hide password in React Native TextInput field
 
 # How to use...
 
-import PasswordTextBox from 'PasswordTextBox';
-import { View, Text, TextInput, StyleSheet, Button, TouchableOpacity, ImageBackground } from 'react-native';
+
+# import PasswordTextBox from 'PasswordTextBox';
+# import { View, Text, TextInput, StyleSheet, Button, TouchableOpacity, ImageBackground } from 'react-native';
 
 const LoginScreen = props => {
     
